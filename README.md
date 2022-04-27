@@ -5,6 +5,18 @@ University of Illinois at Chicago <br />
 {mherre42, aaich2, parde}@uic.edu 
 
 
+
+Download our dataset from here directly. Refer to the instructions below for downloading the data. 
+
+If you use the data or benefit from the paper, please cite
+
+@inproceedings{herrera_aich_parde, 
+title={Language Resources and Evaluation. LREC 2022}, 
+booktitle={TweetTaglish: A Dataset for Investigating Tagalog-English Code-Switching}, 
+author={Herrera, Megan and Aich, Ankit and Parde, Natalie}
+} 
+
+
 A large (20k+ instances) Tagalog-English code-switching dataset, harvested from Twitter.
 
 scrapedtweets.json - Contains the un-cleaned text data from Twitter <br />
