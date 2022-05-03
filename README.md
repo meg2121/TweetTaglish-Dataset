@@ -19,6 +19,5 @@ author={Herrera, Megan and Aich, Ankit and Parde, Natalie}
 
 A large (20k+ instances) Tagalog-English code-switching dataset, harvested from Twitter.
 
-scrapedtweets.json - Contains the un-cleaned text data from Twitter <br />
-tweets_split.csv - Contains tweets and their Tagalog/English/Other split as (Tagalog, English, Other) tuples <br />
+tweets_split_id.csv - Contains tweet IDs and their Tagalog/English/Other split as (Tagalog, English, Other) tuples <br />
 embeddings.csv - Contains tweet embeddings and Tagalog/English/Other splits
